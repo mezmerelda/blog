@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "mezmerelda",
-    "repositoryName": "blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"mezmerelda","repositoryName":"blog","branch":"gh-pages","cname":"blog.sleep500.com"},"site":{"title":"SLEEP500","description":"}/']\nA change from \"like me\" desperation.\n['\\{","postsPerPage":"100","url":"http://blog.sleep500.com"},"socialnetwork":{},"theme":{"name":"Casper","url":"//mezmerelda.github.io/blog/themes/Casper"}}
